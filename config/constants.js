@@ -106,7 +106,7 @@ export const CONTENT = [
     logo: '/images/linkedin-logo.svg',
     linkedinUrl: 'https://www.linkedin.com/in/ericlehder/',
     description:
-      'Computational design expert with industry experience developing 3D printed products',
+      'Computational design expert with industry experience developing 3D printed products.',
     imageList: [],
     list: [
       {
