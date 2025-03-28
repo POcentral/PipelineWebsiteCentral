@@ -165,7 +165,7 @@ export const CONTENT = [
     image: '/images/MasoumehHead2.jpg',
     image2: '/images/MasoumehHead2.jpg',
     title: 'Masoumeh Taherimehr',
-    text: 'Research Scientist',
+    text: 'Senior Scientist',
     educ: 'PhD in Surface Chemistry and Catalysis',
     logo: '/images/linkedin-logo.svg',
     linkedinUrl: 'https://www.linkedin.com/in/masoumeh-taherimehr-a63b9936/',
