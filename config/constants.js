@@ -140,28 +140,6 @@ export const CONTENT = [
   },
   {
     id: 5,
-    image: '/images/BenNew.jpg',
-    image2: '/images/Ben_fun.jpg',
-    title: 'Ben Myers',
-    text: 'Research Scientist',
-    educ: 'PhD in Microbial Bioelectrochemistry, BSc in Food Science',
-    logo: '/images/linkedin-logo.svg',
-    linkedinUrl:
-      'https://www.linkedin.com/company/pipeline-organics/?viewAsMember=true',
-    description:
-      'Biofuel cell systems expert with industry experience in analytical chemistry.',
-    imageList: [],
-    list: [
-      {
-        list1:
-          'Ben completed his bachelor’s degree in food science at the University of Nottingham. After industrial roles in analytical chemistry and environmental consulting, he followed on to complete a PhD in Microbial Bioelectrochemistry at the University of Nottingham from which he recently graduated in 2024. Ben has 4-years’ experience in designing Biofuel Cell systems, and the electrochemical analytical techniques required to assess their performance. Ben joined the team in March 2024, focusing on fuel cell electrochemistry and characterisation to accelerate developments toward technology implementation in industry.',
-        list2:
-          'Outside the lab, Ben enjoys outdoor pursuits, including hiking and mountain biking, photography, cooking and growing his own herbs and hot peppers.',
-      },
-    ],
-  },
-  {
-    id: 6,
     image: '/images/MasoumehHead2.jpg',
     image2: '/images/MasoumehHead2.jpg',
     title: 'Masoumeh Taherimehr',
@@ -182,7 +160,7 @@ export const CONTENT = [
     ],
   },
   {
-    id: 7,
+    id: 6,
     image: '/images/ApoorvaHead2.jpg',
     image2: '/images/ApoorvaHead2.jpg',
     title: 'Apoorva Parmar',
@@ -199,6 +177,28 @@ export const CONTENT = [
           'Apoorva holds an impressive academic and professional foundation, with an MSc in Renewable Energy Engineering from Kingston University London and an MEng in Electrical Engineering from Gujarat Technological University. With valuable experience in the UK sustainable energy and storage industry, he has developed expertise across product prototyping, engineering design, and sustainability-driven solutions and implementation. Outside of work, Apoorva is a passionate sky gazer, a talented photographer, and enjoys playing the guitar.  ',
         list2:
           'Apoorva is passionate about astronomy!',
+      },
+    ],
+  },
+  {
+    id: 7,
+    image: '/images/EthanFormal.jpg',
+    image2: '/images/EthanFormal.jpg',
+    title: 'Ethan Norman',
+    text: 'Electrochemist',
+    educ: 'PhD in in CO2 Electrocatalysis using nanomaterials',
+    logo: '/images/linkedin-logo.svg',
+    linkedinUrl:
+      'https://www.linkedin.com/in/ethan-norman-50930a215/',
+    description:
+      'Electrochemistry expert with deep knowledge in nanomaterial design and synthesis.',
+    imageList: [],
+    list: [
+      {
+        list1:
+          'Ethan completed his Master’s in Chemistry at the University of Nottingham, where he became enamoured with electrochemistry during his final year master’s project. Following his undergraduate studies, he completed a PhD in CO2 Electrocatalysis using Nanomaterials as supports, and scheduled to complete his viva and receive his doctorate Late July 2025. Ethan has expertise in electrochemistry, materials science, synthetic chemistry, and electron microscopy, with ample experience working in sustainable, green energy research. Ethan joined the team in April 2025, focusing on fuel cell electrochemistry and characterisation to accelerate developments toward technology implementation in industry.',
+        list2:
+          'Outside of work, Ethan is an avid chess player, cyclist, and enjoys playing Mahjong with his friends',
       },
     ],
   },
