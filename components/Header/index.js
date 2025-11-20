@@ -22,7 +22,12 @@ const NAV_LINKS = [
     id: 3,
     text: 'Tech',
     url: '/tech',
-  },
+  }
+  // {
+  //   id: 4,
+  //   text: 'Tech Articles',
+  //   url: '/TechArticles',
+  // },
   // {
   //   id: 5,
   //   text: 'dashboard',

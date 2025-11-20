@@ -7,26 +7,34 @@ export default function TechArticles() {
   // Example data (you can replace with API or CMS later)
   const [articles] = useState([
     {
-      title: 'Designing TPMS Electrodes with PicoGK',
+      title: 'Interactive Biofuel Cell Demonstrator at The Heat',
       description:
-        'How we leverage implicit modeling with PicoGK to design ultra-efficient lattice electrodes. Our focus is on maximizing surface-area-to-volume ratios while maintaining pressure drop to a minimum level for energy recovery systems.',
-      link: '/articles/tpms-electrodes',
-      date: 'October 2025',
+        'How we designed, engineered, and delivered a fully interactive enzymatic biofuel cell experience at The Heat 2025. Led by Apoorva Parmar, this project transformed our technology into a live hands-on exhibit for the world to explore.',
+      link: '/TechArticles/the-heat-event',
+      date: 'September 2025',
     },
     {
       title: 'Developing fuel cell holders using PicoGK',
       description:
         'Exploring how computational geometry and additive manufacturing enable the rapid creation of functional fuel cell components — combining PicoGK-based algorithmic design with state-of-the-art surface chemistry',
       link: '/TechArticles/fuel-cell-holders',
-      date: 'September 2025',
-    },
-    {
-      title: 'Surface Chemistry Meets Computational Design',
-      description:
-        'We are implementing state-of-the-art surface chemistry to enhance electrode performance — from catalytic coatings to bio-compatible surface treatments — integrated seamlessly into our design pipeline.',
-      link: '/articles/surface-chemistry',
       date: 'August 2025',
     },
+    {
+      title: 'AI-Driven Geometry Generation with PicoGK',
+      description:
+        'How we built an AI tool that links ChatGPT’s reasoning with PicoGK’s implicit modeling engine — enabling automated generation of complex electrode and lattice geometries directly from natural-language prompts.',
+      link: '/TechArticles/ai-geometry-tool',
+      date: 'July 2025',
+    },
+
+    // {
+    //   title: 'Surface Chemistry Meets Computational Design',
+    //   description:
+    //     'We are implementing state-of-the-art surface chemistry to enhance electrode performance — from catalytic coatings to bio-compatible surface treatments — integrated seamlessly into our design pipeline.',
+    //   link: '/TechArticles/surface-chemistry',
+    //   date: 'August 2025',
+    // },
   ]);
 
   return (

@@ -119,7 +119,7 @@ Voxels voxSpir = new(latSpiral);
 
             <div>
             <h2 className="text-2xl font-semibold mb-3 text-primary">
-                3. Computational Engineering Algorithmic Logic
+                3. Computational Engineering Algorithm
             </h2>
             <p className="text-gray leading-relaxed mb-4">
                 The geometry was generated using parametric algorithms written in C# by{' '}
@@ -169,7 +169,7 @@ Voxels voxSpir = new(latSpiral);
             </div>
 
             <div>
-              <h2 className="text-2xl font-semibold mb-3 text-primary">4. Prototype Design and Printing</h2>
+              <h2 className="text-2xl font-semibold mb-3 text-primary">4. Prototyping and Printing</h2>
               <p className="text-gray leading-relaxed mb-4">
                 The final 3D model was exported to STL and printed by 
                 <span className="font-medium"> Apoorva Parmar</span> at Pipeline Organics. 

@@ -27,6 +27,11 @@ const FOOTER_LINKS = [
     url: '/###',
     text: 'Team',
   },
+  // {
+  //   id: 5,
+  //   text: 'Tech Articles',
+  //   url: '/TechArticles',
+  // },
 ];
 
 export const Footer = () => (
@@ -62,6 +67,12 @@ export const Footer = () => (
                 className='text-base break-all text-black font-regular'
               >
                 info@pipelineorganics.co.uk
+              </Link>
+                  <Link
+                href='/TechArticles'
+                className='text-base text-black font-regular'
+              >
+                Tech Articles
               </Link>
               {/* <Link
                 href='/#'
