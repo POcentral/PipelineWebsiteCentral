@@ -1,4 +1,5 @@
 import Image from 'next/image';
+
 import { Layout, Container } from '@/components';
 
 export default function AIGeometryTool() {
@@ -16,12 +17,12 @@ export default function AIGeometryTool() {
             reasoning of ChatGPT with the computational precision of 
             <span className="font-medium text-primary"> PicoGK</span>. 
             The system was led and fully implemented by <span className="font-medium">Eric Lehder</span> 
-            as part of an internal R&D effort at Pipeline Organics.
+            as part of an internal R&amp;D effort at Pipeline Organics.
           </p>
 
           <p className="text-gray text-lg leading-relaxed max-w-3xl mx-auto text-center mb-12">
             You can try the prototype here (still in development — 
-            <span className="font-medium text-red-500"> please avoid clicking “Generate STL” for now</span>):<br />
+            <span className="font-medium text-red-500"> please avoid clicking &quot;Generate STL&quot; for now</span>):<br />
             <a 
               href="https://black-river-048387203.1.azurestaticapps.net/" 
               target="_blank" 
@@ -81,7 +82,7 @@ export default function AIGeometryTool() {
               <ul className="list-disc ml-6 text-gray leading-relaxed mb-4">
                 <li>
                   <span className="font-medium">AI Designer:</span> Accepts natural language prompts 
-                  such as "generate a TPMS electrode with variable pore size".
+                  such as &quot;generate a TPMS electrode with variable pore size&quot;.
                 </li>
                 <li>
                   <span className="font-medium">Backend Compiler:</span> Writes the produced code 
@@ -111,7 +112,7 @@ export default function AIGeometryTool() {
               </h2>
 
               <p className="text-gray leading-relaxed mb-4">
-                Developed by Eric Lehder to support rapid R&D cycles, the tool can generate a wide 
+                Developed by Eric Lehder to support rapid R&amp;D cycles, the tool can generate a wide 
                 range of implicit and voxel-based geometries:
               </p>
 
@@ -137,7 +138,7 @@ export default function AIGeometryTool() {
               </h2>
 
               <p className="text-gray leading-relaxed">
-                By combining ChatGPT’s generative power with PicoGK’s computational modelling 
+                By combining ChatGPT&amp;rsquo;s generative power with PicoGK&amp;rsquo;s computational modelling 
                 backend, this tool — led and implemented by <span className="font-medium">Eric Lehder</span> — 
                 introduces a new paradigm for geometry creation. It enables rapid exploration of 
                 complex structures for additive manufacturing, energy systems, and advanced 

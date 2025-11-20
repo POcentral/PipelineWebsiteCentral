@@ -1,4 +1,5 @@
 import Image from 'next/image';
+
 import { Layout, Container } from '@/components';
 
 export default function TheHeatExperience() {
