@@ -143,19 +143,19 @@ export const CONTENT = [
     image: '/images/MasoumehHead2.jpg',
     image2: '/images/MasoumehHead2.jpg',
     title: 'Masoumeh Taherimehr',
-    text: 'Senior Scientist',
+    text: 'Senior Research Chemist',
     educ: 'PhD in Surface Chemistry and Catalysis',
     logo: '/images/linkedin-logo.svg',
     linkedinUrl: 'https://www.linkedin.com/in/masoumeh-taherimehr-a63b9936/',
     description:
-      'Enzyme immobilization expert specializing in enhancing stability and efficiency.',
+      'Materials and Catalysis Expert with extensive expertise and hands-on experience in green chemistry and sustainable energy production.',
     imageList: [],
     list: [
       {
         list1:
-          'Masoumeh brings a strong academic foundation and specialised expertise to her role as a Research Chemist, where she focuses on enhancing enzyme stability and efficiency through innovative immobilisation strategies. She holds a PhD in Surface Chemistry and Catalysis from KU Leuven. Outside of her professional pursuits, Masoumeh enjoys practicing yoga, swimming, and exploring the art of calligraphy. ',
+          'Masoumeh brings a strong academic foundation and specialised expertise to her role as a Senior Research Chemist, where she focuses on enhancing enzyme stability and efficiency through innovative immobilisation strategies. She holds a PhD in Surface Chemistry and Catalysis from KU Leuven. ',
         list2:
-          'Masoumeh enjoys traveling the world!',
+          'Outside of her professional pursuits, Masoumeh enjoys practicing yoga, swimming, and exploring the art of calligraphy. Masoumeh enjoys traveling the world!',
       },
     ],
   },
