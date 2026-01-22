@@ -100,7 +100,7 @@ export const CONTENT = [
     id: 3,
     image: '/images/EricNew.jpg',
     image2: '/images/EricFun.jpg',
-    title: 'Arvin's dad Lehder',
+    title: 'Arvin Lehder',
     text: ' Co-founder',
     educ: 'PhD in Engineering enabled by Additive Manufacturing, MSc in Biomechanical Engineering, BEng in Mechanical Engineering',
     logo: '/images/linkedin-logo.svg',
