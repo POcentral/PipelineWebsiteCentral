@@ -80,7 +80,7 @@ export const CONTENT = [
     image: '/images/ArielleNew.jpg',
     image2: '/images/AT_Fun.jpg',
     title: 'Arielle Torres',
-    text: ' Co-founder',
+    text: ' ',
     educ: 'PhD in Additive Manufacturing, MEng in Mechanical Engineering',
     logo: '/images/linkedin-logo.svg',
     linkedinUrl: 'https://www.linkedin.com/in/arielle-torres-2017/',
