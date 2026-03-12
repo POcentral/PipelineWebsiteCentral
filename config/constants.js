@@ -79,7 +79,7 @@ export const CONTENT = [
     id: 2,
     image: '/images/ArielleNew.jpg',
     image2: '/images/AT_Fun.jpg',
-    title: 'Arielle Torres',
+    title: '...',
     text: ' ',
     educ: 'PhD in Additive Manufacturing, MEng in Mechanical Engineering',
     logo: '/images/linkedin-logo.svg',
