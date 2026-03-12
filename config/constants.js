@@ -79,7 +79,7 @@ export const CONTENT = [
     id: 2,
     image: '/images/ArielleNew.jpg',
     image2: '/images/AT_Fun.jpg',
-    title: '...',
+    title: 'A T',
     text: ' ',
     educ: 'PhD in Additive Manufacturing, MEng in Mechanical Engineering',
     logo: '/images/linkedin-logo.svg',
