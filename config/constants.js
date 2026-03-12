@@ -85,7 +85,7 @@ export const CONTENT = [
     logo: '/images/linkedin-logo.svg',
     linkedinUrl: 'https://www.linkedin.com/in/arielle-torres-2017/',
     description:
-      'Led small teams, sold six-figure sports holidays & evaluated startups for investment.',
+      '.',
     list: [
       {
         list1:
