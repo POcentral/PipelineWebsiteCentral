@@ -74,29 +74,7 @@ export const CONTENT = [
     ],
     imageList: [],
   },
-  
-  {
-    id: 3,
-    image: '/images/EricNew.jpg',
-    image2: '/images/EricFun.jpg',
-    title: ' ..... ',
-    text: ' .... ',
-    educ: 'removed',
-    logo: '/images/linkedin-logo.svg',
-    linkedinUrl: 'https://www.linkedin.com/in/ericlehder/',
-    description:
-      '.....',
-    imageList: [],
-    list: [
-      {
-        list1:
-          'Eric’s passion for technology, rooted in his school-time excellence in Mathematics and Physics, steered him towards Mechanical Engineering, focusing on Mechanical Design. His undergraduate journey was marked by several wins in design competitions. Eric’s interest deepened at Delft University of Technology, specialising in Biomechanical Design and excelling in algorithmic computational design and computational modeling. An early-stage practical stint at Porsche Engineering honed these skills further. During his PhD at the Centre for Additive Manufacturing, Eric optimised designs for Additively Manufactured tissue regeneration scaffolds. Concurrently, he ventured into entrepreneurship, co-founding Pipeline Organics, a renewable energy company, post 2.5 years in technology startups. Now, he contributes full-time as a co-Director at Pipeline Organics, leveraging his rich background in technology and early-stage innovation.',
-        list2:
-          'Loves all kinds of racket sports, currently focusing on Padel! Also really enjoy water sports such as kayaking and wind surfing!',
-      },
-    ],
-  },
-
+    
   {
     id: 4,
     image: '/images/KeyvanNew2.jpg',
