@@ -102,7 +102,7 @@ export const CONTENT = [
     image2: '/images/EricFun.jpg',
     title: ' ..... ',
     text: ' .... ',
-    educ: 'PhD in Engineering enabled by Additive Manufacturing, MSc in Biomechanical Engineering, BEng in Mechanical Engineering',
+    educ: 'removed',
     logo: '/images/linkedin-logo.svg',
     linkedinUrl: 'https://www.linkedin.com/in/ericlehder/',
     description:
