@@ -74,28 +74,7 @@ export const CONTENT = [
     ],
     imageList: [],
   },
-
-  {
-    id: 2,
-    image: '/images/ArielleNew.jpg',
-    image2: '/images/AT_Fun.jpg',
-    title: '.... ',
-    text: ' ',
-    educ: 'PhD in Additive Manufacturing, MEng in Mechanical Engineering',
-    logo: '/images/linkedin-logo.svg',
-    linkedinUrl: 'https://www.linkedin.com/in/arielle-torres-2017/',
-    description:
-      '.',
-    list: [
-      {
-        list1:
-          ' Arielle is a creator at heart, her enthusiasm for turning an idea into reality is a common theme throughout her life. Choosing to pursue Mechanical Engineering at university was her first strategic step toward realising this passion, blending her aptitude for mathematics and a practical, hands-on nature. Throughout her undergraduate journey, her appreciation for computational design and manufacturing strengthened, leading her toward the exciting space of 3D printing, otherwise known as Additive Manufacturing (AM). For AM, the usual limitations of conventional manufacturing are eliminated, meaning almost any design idea can be fabricated, widening the scope of viable engineering solutions. Buying into its potential, Arielle decided to contribute to the advancement of AM technology through the pursuit of a PhD research opportunity at the University of Nottingham where she later met her co-founders. Today, Arielle harnesses her drive to create and funnels it into Pipeline Organics, bringing creative problem solving, an unapologetically ambitious attitude and an unfettered vision for the future.',
-        list2:
-          ' Arielle enjoys an active lifestyle, from various DIY projects, to sports, including rowing, mountain climbing, and volleyball, to everyday gardening.',
-      },
-    ],
-    imageList: [],
-  },
+  
   {
     id: 3,
     image: '/images/EricNew.jpg',
